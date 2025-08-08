@@ -32,5 +32,16 @@ Mandatory Commands:
    >> git add  .  --> to add that all file --> now its having (with A symbol)
 
    >>git status
+
    >>git commit -m "Commit message"
    >>git push
+
+   git push --set-upstream origin master
+   //Authentication done through browser
+   git push --set-upstream origin master
+
+   Done Done Done😍🫡😊👌❤️
+
+create a new Branch
+>>git checkout -b "branchname"
+>>git status
