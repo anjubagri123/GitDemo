@@ -1,0 +1,105 @@
+MEAN:
+   >> M : MONGO DB (DATABASE)
+   >> E : Express JS  (BACKEND)
+   >> A : Angular (FRONTEND)
+   >> N : Node JS (BACKEND)
+
+Three Pillars :
+    >> HTML (Hypertext MarkUp Language)
+    >> CSS (Cascading Style Sheet)
+    >> JAVASCRIPT
+
+OTHER STACKS : 
+   >> MEAN, MERN , JAVA FULLSTACK
+
+MERN:
+    >> M: MONGO DB
+    >> E: Express JS
+    >> R:React JS
+    >> N:Node JS
+
+Web Dev
+    >> Development Team/Building
+    >> Testing Team(Manual Testers / Automatic Testers)
+    >> Hosting Team(DevOps Team)
+    >> Maintenance Team/Support Team
+
+SDLC (Software Development life cycle.):
+   >> WaterFall Model
+   >> Incremental Model
+   >> Iterative Model
+   >> Prototype Model
+   >> Module Model
+   >> Spiral Model
+   >> V - Shaped Model
+   >> Agile Model
+   >> RAD(Rapid Application Development)
+
+URL (Uniform Resource Locator)
+  >> eg., https://www.google.com
+     >> https://www.education.AnjuAcademy.edu/FULLSTACK
+     >> https://www.meet.google.com/
+     here also,
+     google->Main Domain/Server
+     meet -> Sub Domain
+     // lets divide the URL
+     >> https:protocol
+     >> AnjuAcademy: Main Domain Name/Server
+     >> education: Sub-Domain
+     >> .edu: TLD(Top Level Domain)
+     >> FULLSTACK: Path/Location
+
+   >> https: hypertext tranfer protocol secure -> Security Purpose
+
+
+Protocol :
+    >> Set of Rules/Infomation
+
+    >> eg., 
+        http: hypertext transfer protocol
+        https:  hypertext transfer protocol secure
+        tcp: transmision control protocol
+        udp: user datagram protocol
+        ip:internet protocol (ipV4,ipV6)
+        smtp: simple mail tranfer protocol
+        ftp:  file tranfer protocol
+        POP: post office protocol
+
+   >> client/Web Page------>(UID , Upwd)--------->Server
+    >>SSL->(Secure Socket Layer) Certification
+        
+Domain Name/Server: 
+    >>Unique Identification
+          >>Eg;Google,Oracle
+
+Sub-Domain :
+      Google -> gmaps             Amazon-> Amazon Shopping
+                gmail                      Amazon Web Services(AWS)
+                gphotos
+                gmeet
+                gpay
+                gdrive
+                gchrome
+                gCalender
+                gfiles
+                gEarth
+
+TLD(TOP LEVEL DOMAIN)->
+    amazon.in (INDIA)
+    amazon.com (COMMERCIAL)
+    amazon.edu (EDUCATION)
+    amazon.org (ORGANISATION)
+    amazon.uk (United KIngdom)
+
+
+>> Offline Editor:
+   eg: NotePad
+    NodePad++
+    Visual Studio Code
+    Sublime
+    Open Brackets
+
+>>Online Editors:
+   Code Sandbox
+   Code Blocks
+

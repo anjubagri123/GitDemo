@@ -1,0 +1,36 @@
+Git-> >> Version contol 
+
+eg: v1
+    v2
+    v3 
+new v4 -> new developer added more functionality and that unfortunately having bugs
+then we can track the changes and resolve it meanwhile we can release the v3 again 
+
+   >> It is Distributed
+   >> Collaboration
+   >> Tracking changes
+   >> Recovery Fast
+
+Git Applications:
+    >>Github:
+    >>BitBucket
+    >>GitPods
+    >>GitLabs
+
+If you are installing First time then run these commands in cmd.
+git config --global user.name "anjubagri123"
+git config --global user.email "bagrianju2002@gmail.com"
+git config --global colors.ui auto
+
+Mandatory Commands:
+   >> git init
+   >> git remote add origin https://github.com/anjubagri123/GitDemo.git
+
+
+   >>git pull origin main
+   >> git status --> it will show all untracked (with U symbol) files
+   >> git add  .  --> to add that all file --> now its having (with A symbol)
+
+   >>git status
+   >>git commit -m "Commit message"
+   >>git push
