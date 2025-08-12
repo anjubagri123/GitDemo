@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+</head>
+<body>
+    <form action="">
+        <!-- bind for and id for highlighting the fild where to write the first name -->
+         <!-- placeholder: for watermark in input box -->
+        <label for="fName">First Name: </label>
+        <input type="text" id="fName" minlength="5" maxlength="40" required placeholder="Enter First Name"/>
+
+        <label for="">Middle Name: </label> 
+        <input type="text" disabled>
+ 
+        <!-- value: default value -->
+        <label for="">Last Name: </label> 
+        <input type="text" value="AB">
+ 
+        <br><br>
+        <label for="">Age : </label> 
+        <input type="number">
+
+        <br><br>
+        <label for="">Date of Birth : </label> 
+        <input type="date">
+
+        <br><br>
+
+        <label for="">Email : </label> 
+        <input type="email">
+
+        <!-- convert password to unreadable -->
+        <br><br>
+        <label for="">Password :</label>
+        <input type="password">
+
+        <br><br>
+        <!-- for and id linked for check/tick the specific by clicking on radio button as well as label -->
+         <!-- checked : bydefault -->
+        <label for="">Enter Your Shirt Size :</label>
+        <input type="radio" name="ShirtSize" id="small"/><label for="small">Small</label>
+        <input type="radio" name="ShirtSize" id="medium" checked/><label for="medium">Medium</label>
+        <input type="radio" name="ShirtSize" id="large"/><label for="large">Large</label>
+
+         <br><br>
+
+       <label for="">Languages you known</label>
+        <input type="checkbox" name="lang" id="ENglish"/><label for="ENglish">Eng</label>
+        <input type="checkbox" name="lang" id="Hindi" checked/><label for="Hindi">HIn</label>
+        <input type="checkbox" name="lang" id="Kannada"/><label for="Kannada">Knaanad</label>
+          <input type="checkbox" name="lang" id="Telugu"/><label for="Telugu">Telugu</label>
+        <br><br>
+        <label for="color">Please Selct Color for your shirt :</label>
+        <input type="color">
+
+        <br><br>
+        
+        <label for="PaymentOptions">Please Selct Payment Options: </label>
+        <select name="" id="PaymentOptions">
+            <option value="">Gpay</option>
+            <option value="">Paytm</option>
+            <option value="">UPI</option>
+             <option value="">COD</option>
+        </select>
+
+        <br><br>
+        <label for="feed">Please Provide the valuable feedback</label>
+        <textarea name="" id="feed" rows="14" cols="34" placeholder="Please enter your comments here...."></textarea>
+    <br><br>
+    
+    <input type="reset"/>
+    <input type="submit"/>
+
+
+    </form>
+</body>
+</html>
